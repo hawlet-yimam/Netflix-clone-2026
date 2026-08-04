@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/https//hawlet-yimam1.github.io/Netflix-clone-2026/static/css/main.84432138.css",
+    "main.js": "/https//hawlet-yimam1.github.io/Netflix-clone-2026/static/js/main.ff7519ec.js",
+    "static/media/Netflix_Logo.png": "/https//hawlet-yimam1.github.io/Netflix-clone-2026/static/media/Netflix_Logo.f4070143e1f521da82a1.png",
+    "index.html": "/https//hawlet-yimam1.github.io/Netflix-clone-2026/index.html",
+    "main.84432138.css.map": "/https//hawlet-yimam1.github.io/Netflix-clone-2026/static/css/main.84432138.css.map",
+    "main.ff7519ec.js.map": "/https//hawlet-yimam1.github.io/Netflix-clone-2026/static/js/main.ff7519ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84432138.css",
+    "static/js/main.ff7519ec.js"
+  ]
+}
