@@ -53,6 +53,8 @@
   max-width: 360px;
   height: 80px;
 }
+
+/* ከታች በኩል ከቀጣዩ ክፍል ጋር በጥቁር ጥላ እንዲቀላቀል የሚረዳው (Fade Effect) */
 .banner--fadeBottom {
   height: 7.4rem;
   background-image: linear-gradient(
